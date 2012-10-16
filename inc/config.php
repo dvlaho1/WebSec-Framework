@@ -4,14 +4,14 @@
 // This is pre-set by author so please leave it as it is.
 
 $title = 'WebSec Framework';
-$description = 'Application Description';
+$description = 'Advanced Training-based Web Application Security Framework';
 $footer = '&copy;2012 WebSec Framework <br/> Powered by Security Consulting';
 
-// Some Social Links
+// Social Links
 // Change the PATH ONLY, BUT NO the web link
 
-$facebook = '<a href="#"><img src="http://localhost/websec/images/social/facebook.png" alt="Facebook" title="Facebook" /></a>';
-$twitter = '<a href="#"><img src="http://localhost/websec/images/social/twitter_bird.png" alt="Twitter" title="Twitter" /></a>';
+$facebook = '<a href="http://facebook.com/dalibor.vlaho"><img src="http://localhost/websec/images/social/facebook.png" alt="Facebook" title="Facebook" /></a>';
+$twitter = '<a href="http://twitter.com/dvlaho"><img src="http://localhost/websec/images/social/twitter_bird.png" alt="Twitter" title="Twitter" /></a>';
 $linkedin = '<a href="#"><img src="http://localhost/websec/images/social/linkedin.png" alt="Linkedin" title="Linkedin" /></a>';
 $skype = '<a href="#"><img src="http://localhost/websec/images/social/skype.png" alt="Skype" title="Skype" /></a>';
 $youtube = '<a href="#"><img src="http://localhost/websec/images/social/youtube.png" alt="Youtube" title="Youtube"/></a>';

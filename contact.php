@@ -2,6 +2,7 @@
 
 include ('inc/config.php');
 include ('inc/menu.php');
+include ('inc/social.php');
 
 ?>
 
@@ -49,6 +50,13 @@ Dalibor Vlaho
 Computer Security Specialist<br/>
 Security Consulting<br/><br/>
 <?php echo $dalibor_vlaho; ?>
+<br/><br/>
+Coulibaly Laïcana
+</strong><br/>
+Wise President<br/>
+COJI International<br/>
+<br/>
+<?php echo $coji_internacional; ?>
 </div>
 
 </div>

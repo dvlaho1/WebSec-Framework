@@ -53,15 +53,13 @@ include ("inc/menu.php");
 <!-- Content -->
 <div id="content">
 <h2>Welcome to WebSec Framework!</h2>
-<center>
-<div id="tweet">
-@dvlaho<br/>
-Last tweet from @dvlaho</div>
-</center>
 <p id="content-text">
 WebSec framework is an Advanced Training-based Web Application Security Framework.
 <br/>
-This is an Pre-Alpha Release so please keep this in mind!
+For more information about this please read Documentation.pdf in Documentation folder.
+<br/> <br/>
+This is a Pre-Alpha Release so please keep this in mind.<br/>
+BETA and RC coming soon.
 <br/><br/>
 Thanks!<br/>
 WebSec Team
